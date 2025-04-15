@@ -7,7 +7,7 @@ Welcome to my portfolio! I'm a data science learner with strong Python and data 
 
 ## 🔧 Tools & Technologies
 
-- Python (NumPy, Pandas, Scikit-Learn, Keras)
+- Python (NumPy, Pandas, Scikit-Learn, Pipline, Keras)
 - Data Visualization (Matplotlib, Seaborn)
 - SQL (basic querying and filtering)
 - Git & GitHub for version control
