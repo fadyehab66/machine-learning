@@ -21,7 +21,7 @@ Welcome to my portfolio! I'm a data science learner with strong Python and data 
 - Used: Pandas, Scikit-Learn
 - Built a machine learning model to predict survival
 - Accuracy: 83%
-- [View Project →]([link_to_your_repo](https://colab.research.google.com/drive/1sYAAUxQo31lK5g3REsAMWp9nxHhgh9vv#scrollTo=X9E4Z0u2uUJq))
+- [View Project →](https://colab.research.google.com/drive/1sYAAUxQo31lK5g3REsAMWp9nxHhgh9vv#scrollTo=X9E4Z0u2uUJq)
 
 
 ---
