@@ -44,8 +44,14 @@ Welcome to my portfolio! I'm a data science learner with strong Python and data 
 ### 5. **Boston House Prices**
 - Used: Pandas, Scikit-Learn, Numpy, Seaborn, preprocessing, metrics
 - Built a machine learning model to predict House Prices
+- Silhouette Score: 68%
+- [View Project →](https://colab.research.google.com/drive/1_JKJ6NDK4G39gepithMGQUcpChSee-AF#scrollTo=YT5v0WcPBb-L)
+
+### 6. **Wine Clustering**
+- Used: Pandas, Scikit-Learn, Numpy, Seaborn, preprocessing, metrics, cluster, DBSCAN, HDBSCAN
+- Built a machine learning model to predict which wine belong for his cluster
 - Accuracy: 91%
-- [View Project →](https://colab.research.google.com/drive/1_JKJ6NDK4G39gepithMGQUcpChSee-AF#scrollTo=YT5v0WcPBb-L)  
+- [View Project →](https://colab.research.google.com/drive/1lp7iL6XB9pwlEEtnvvy-O1SDkoFhERAp#scrollTo=b0386119)  
 ---
 
 ## 🌍 Let's Connect
